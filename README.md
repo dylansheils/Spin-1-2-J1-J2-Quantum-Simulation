@@ -1,4 +1,4 @@
-Welcome to the "Near-Term Quantum Spin Simulation of the Spin-$\frac{1}{2}$ Square $J_{1}-J_{2}$ Heisenberg Model" GitHub repository!
+Welcome to the "Near-Term Quantum Spin Simulation of the Spin-1/2 Square $J_{1}-J_{2}$ Heisenberg Model" GitHub repository!
 
 In this repository the following algorithms are implemented:
   - Quantum Computed Moments
